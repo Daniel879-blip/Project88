@@ -1,0 +1,2 @@
+
+CLASS_NAMES = ['CNV', 'DME', 'DRUSEN']
